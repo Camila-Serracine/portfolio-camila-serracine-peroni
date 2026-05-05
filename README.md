@@ -47,7 +47,6 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid]. 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-
 |Desenvolvimento do projeto Escape Game Digital . | [Ver Projeto](SM9-Desenvolvimento-App-ManusAI-Jitsi) |
 
 |Prompts autronautas . | [Ver Projeto](SM1-Corrida-Do-Prompt) |

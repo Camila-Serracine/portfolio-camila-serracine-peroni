@@ -39,6 +39,15 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid]. 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+
+
+
+
+ 
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
 |Desenvolvimento do projeto Escape Game Digital . | [Ver Projeto](SM9-Desenvolvimento-App-ManusAI-Jitsi) |
 |Prompts autronautas . | [Ver Projeto](SM1-Corrida-Do-Prompt) |
@@ -48,14 +57,6 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid]. 
 |Do Clone ao Produto Mínimo Viável . | [Ver Projeto](SM5-Do-Clone-Produto-Mínimo-Viável) |
 |Engenharia de Software com IA  . | [Ver Projeto](SM7-Engenharia-De-Software-IA-Bubble.io) |
 
-
-
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
 ---
  
 ### 🏗 Estrutura do Repositório

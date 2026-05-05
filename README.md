@@ -39,7 +39,6 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid- U
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 | **Artefato 01** | Este artigo faz parte da disciplina de Modelagem de Banco de Dados (MBD) e tem como objetivo apresentar uma estrutura inicial do sistema, incluindo a definição de entidades, atributos e possíveis relacionamentos.. | [Ver Projeto](./MBD-Artefato-01/) |
 | **Artefato 02** | Este repositório contém o Artefato 02 da disciplina de Modelagem de Banco de Dados (MBD), com foco na representação e organização estruturada dos dados de um sistema.. | [Ver Projeto](./MBD-Artefato-02/) |
 | **Artefato 03** | Este artigo representa a evolução da modelagem do banco de dados, com foco na transição do modelo conceitual para o modelo lógico, estruturando as tabelas de forma mais próximas da implementação.. | [Ver Projeto](./MBD-Artefato-03/) |

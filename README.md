@@ -47,9 +47,9 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid]. 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-|Desenvolvimento do projeto Escape Game Digital . | [Ver Projeto](SM9-Desenvolvimento-App-ManusAI-Jitsi) |
-|Prompts autronautas . | [Ver Projeto](SM1-Corrida-Do-Prompt) |
-|Mecanismo do Viés. | [Ver Projeto](SM2-Laboratório-De-Classificação-Visual) |
+|Desenvolvimento do projeto Escape Game Digital . | [Ver Projeto] |(SM9-Desenvolvimento-App-ManusAI-Jitsi) |
+|Prompts autronautas . | [Ver Projeto] |(SM1-Corrida-Do-Prompt) |
+|Mecanismo do Viés. | [Ver Projeto] |(SM2-Laboratório-De-Classificação-Visual) |
 |Batalha de Modelos. | [Ver Projeto](SM3-Batalha-De-Modelos-Engenharia-De-Prompt) |
 |Prática de engenharia reversa. | [Ver Projeto](SM4-Engenharia-Reversa) |
 |Do Clone ao Produto Mínimo Viável . | [Ver Projeto](SM5-Do-Clone-Produto-Mínimo-Viável) |

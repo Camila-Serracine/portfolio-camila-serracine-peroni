@@ -57,7 +57,9 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid]. 
 |Batalha de Modelos. | [Ver Projeto](SM3-Batalha-De-Modelos-Engenharia-De-Prompt) |
 
 |Prática de engenharia reversa. | [Ver Projeto](SM4-Engenharia-Reversa) |
+
 |Do Clone ao Produto Mínimo Viável . | [Ver Projeto](SM5-Do-Clone-Produto-Mínimo-Viável) |
+
 |Engenharia de Software com IA  . | [Ver Projeto](SM7-Engenharia-De-Software-IA-Bubble.io) |
 
 ---

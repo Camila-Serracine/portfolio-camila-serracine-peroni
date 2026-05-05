@@ -1,103 +1,65 @@
-# 💼 Portfólio - Camila Serracine Peroni
-
-Bem-vindo(a) ao meu portfólio no GitHub! 🚀  
-Aqui você encontrará projetos desenvolvidos ao longo da minha trajetória acadêmica e estudos na área de Tecnologia da Informação, com foco em desenvolvimento de sistemas, banco de dados e aplicações interativas.
-
----
-
-## 👩‍💻 Sobre mim
-
-Sou estudante de Tecnologia da Informação, com interesse em desenvolvimento de software, análise de sistemas e soluções tecnológicas que gerem impacto real.
-
-Tenho conhecimentos em:
-- Desenvolvimento web (HTML, CSS, JavaScript)
-- C# com Windows Forms
-- ASP.NET
-- Banco de dados (SQL Server, SQLite)
-- Entity Framework
-- Lógica de programação
-- Conceitos de Business Intelligence
-
----
-
-## 📂 Projetos em Destaque
-
-### 🎮 Escape Game Digital
-Aplicativo interativo com foco em comunicação entre amigos, integrando videoconferência e chat em tempo real com temática de escape room.
-
-**Destaques:**
-- Integração com videoconferência (Jitsi)
-- Criação de salas privadas
-- Interface moderna e responsiva
-- Experiência imersiva e interativa
-
----
-
-### 💻 Portfólio Web
-Projeto de site pessoal desenvolvido para apresentar minhas habilidades, projetos e trajetória.
-
-**Tecnologias:**
-- HTML
-- CSS
-- JavaScript
-
----
-
-### 🗄️ Projetos Acadêmicos (Banco de Dados)
-Modelagem de dados, DER, modelo lógico e implementação em SQL Server.
-
-**Conteúdos:**
-- Data Warehouse
-- Data Mart
-- Modelagem relacional
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- Visual Studio 2022  
-- SQL Server  
-- SQLite  
-- ASP.NET  
-- HTML, CSS, JavaScript  
-- jQuery  
-- Entity Framework Core  
-- Android Studio (Java)  
-
----
-
-## 📚 Em aprendizado
-
-Atualmente estou aprofundando meus conhecimentos em:
-- Integração de APIs  
-- Desenvolvimento de aplicações completas  
-- Inteligência Artificial aplicada ao desenvolvimento  
-- Engenharia de Software  
-
----
-
-## 🎯 Objetivo Profissional
-
-Busco uma oportunidade de estágio na área de Tecnologia da Informação, onde eu possa aplicar meus conhecimentos, aprender na prática e evoluir profissionalmente.
-
----
-
-## 📫 Contato
-
-- GitHub: https://github.com/camila-serracine  
-- LinkedIn: ([(https://www.linkedin.com/in/camila-serracine-peroni-374094225/)])  
-- Email: (camilaserracinee@gmail.com)  
-
----
-
-## 💡 Considerações Finais
-
-Este portfólio representa minha evolução na área de tecnologia e meu compromisso com o aprendizado contínuo. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
-
-⭐ Obrigada por visitar meu perfil!
+# [Camila Serracine Peroni]
+> Estudante de [: Ciência da Computação]
  
-#### 🗃️ Banco de Dados
+---
+ 
+### 📫 Contato & Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/camila-serracine-peroni-374094225/))
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](camilaserracinee@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
+ 
+---
+ 
+### 👨‍💻 Sobre
+Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - Desenvolvimento Backend / Análise de Dados].
+ 
+* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+
+ 
+---
+ 
+### 🛠 Minhas Ferramentas Favoritas
+ 
+#### 💻 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ 
+#### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+#### 🤖 Inteligência Artificial & Ciência de Dados
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ 
+---
+ 
+### 📂 Portfólio de Projetos
+ 
+#### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
-|--------|----------|------|
-| Sistema Concessionária | Banco de dados de concessionária | [Ver Projeto](./projeto-banco-dados/) |
-| Escape Game Digital | Banco de dados de concessionária | [Ver Projeto](SM9-Desenvolvimento-App-ManusAI-Jitsi) |
+| :--- | :--- | :---: |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+|Desenvolvimento do projeto Escape Game Digital . | [Ver Projeto](SM9-Desenvolvimento-App-ManusAI-Jitsi) |
+|Prompts autronautas . | [Ver Projeto](SM1-Corrida-Do-Prompt) |
+|Mecanismo do Viés. | [Ver Projeto](SM2-Laboratório-De-Classificação-Visual) |
+|Batalha de Modelos. | [Ver Projeto](SM3-Batalha-De-Modelos-Engenharia-De-Prompt) |
+|Prática de engenharia reversa. | [Ver Projeto](SM4-Engenharia-Reversa) |
+|Do Clone ao Produto Mínimo Viável . | [Ver Projeto](SM5-Do-Clone-Produto-Mínimo-Viável) |
+|Engenharia de Software com IA  . | [Ver Projeto](SM7-Engenharia-De-Software-IA-Bubble.io) |
+
+
+
+ 
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+ 
+---
+ 
+### 🏗 Estrutura do Repositório
+Abaixo, a organização deste repositório para facilitar a navegação:
+ 
+- `root/`: Arquivo de apresentação principal.
+- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.

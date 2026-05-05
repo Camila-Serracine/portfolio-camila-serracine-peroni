@@ -39,7 +39,7 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid]. 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-
+| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 
 
 
@@ -47,8 +47,7 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid]. 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+
 |Desenvolvimento do projeto Escape Game Digital . | [Ver Projeto](SM9-Desenvolvimento-App-ManusAI-Jitsi) |
 |Prompts autronautas . | [Ver Projeto](SM1-Corrida-Do-Prompt) |
 |Mecanismo do Viés. | [Ver Projeto](SM2-Laboratório-De-Classificação-Visual) |

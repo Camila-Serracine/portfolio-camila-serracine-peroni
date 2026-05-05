@@ -50,8 +50,11 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid]. 
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 | **corrida do prompt** |Prompts de Astrounautas em diferentes IAS. | [Ver Projeto](./SM1-Corrida-Do-Prompt/) |
 | **Laboratório de Classificação Visual** |projeto foi desenvolvido como uma atividade prática focada na classificação visual de dados. | [Ver Projeto](./SM2-Laboratório-De-Classificação-Visual/) |
-| **projeto apresenta uma análise comparativa entre diferentes modelos de inteligência artificial, com foco na engenharia de prompt e na avaliação da qualidade das respostas geradas.** |Batalha de Modelos: Engenharia de Prompt. | [Ver Projeto](./SM3-Batalha-De-Modelos-Engenharia-De-Prompt/) |
+| **Batalha de modelos: Engenharia de Prompt.** |projeto apresenta uma análise comparativa entre diferentes modelos de inteligência artificial, com foco na engenharia de prompt e na avaliação da qualidade das respostas geradas. | [Ver Projeto](./SM3-Batalha-De-Modelos-Engenharia-De-Prompt/) |
 | **Engenharia Reversa** |projeto aborda a prática de engenharia reversa aplicada a sistemas ou estruturas existentes, com o objetivo de compreender seu funcionamento e reconstruir sua lógica a partir da análise.. | [Ver Projeto](./Engenharia Reversa/) |
+| **Do Clone ao Produto Mínimo Viáve** |projeto apresenta o desenvolvimento de um produto a partir da análise e replicação de uma solução existente (clone), evoluindo para a criação de um Produto Mínimo Viável (MVP) com funcionalidades essenciais.. | [Ver Projeto](./SM5-Do-Clone-Produto-Mínimo-Viável/) |
+| **Engenharia de Software com IA (Bubble.io)** |Este projeto explora o desenvolvimento de software com o uso de inteligência artificial e ferramentas no-code, utilizando a plataforma Bubble.io para criação de aplicações de forma ágil e eficiente.. | [Ver Projeto](./SM7-Engenharia-De-Software-IA-Bubble.io/) |
+| **Escape Game Digital** |O Escape Game Digital é uma aplicação interativa que oferece comunicação em tempo real e experiência imersiva inspirada em escape rooms. O aplicativo permite que os usuários criem salas privadas para conversar, interagir e se conectar com amigos de forma mais divertida e envolvente.. | [Ver Projeto](./SM9-Desenvolvimento-App-ManusAI-Jitsi/) |
 ---
  
 ### 🏗 Estrutura do Repositório

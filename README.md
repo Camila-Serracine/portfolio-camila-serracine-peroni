@@ -54,7 +54,7 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Unicid- U
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **corrida do prompt** |Prompts de Astrounautas em diferentes IAS. | [Ver Projeto](./SM1-Corrida-Do-Prompt/) |
+| **Corrida do prompt** |Prompts de Astrounautas em diferentes IAS. | [Ver Projeto](./SM1-Corrida-Do-Prompt/) |
 | **Laboratório de Classificação Visual** |projeto foi desenvolvido como uma atividade prática focada na classificação visual de dados. | [Ver Projeto](./SM2-Laboratório-De-Classificação-Visual/) |
 | **Batalha de modelos: Engenharia de Prompt.** |projeto apresenta uma análise comparativa entre diferentes modelos de inteligência artificial, com foco na engenharia de prompt e na avaliação da qualidade das respostas geradas. | [Ver Projeto](./SM3-Batalha-De-Modelos-Engenharia-De-Prompt/) |
 | **Engenharia Reversa** |projeto aborda a prática de engenharia reversa aplicada a sistemas ou estruturas existentes, com o objetivo de compreender seu funcionamento e reconstruir sua lógica a partir da análise.. | [Ver Projeto](./SM4-Engenharia-Reversa/) |

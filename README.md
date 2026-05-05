@@ -85,7 +85,7 @@ Busco uma oportunidade de estágio na área de Tecnologia da Informação, onde 
 ## 📫 Contato
 
 - GitHub: https://github.com/camila-serracine  
-- LinkedIn: ([adicione aqui](https://www.linkedin.com/in/camila-serracine-peroni-374094225/))  
+- LinkedIn: ([(https://www.linkedin.com/in/camila-serracine-peroni-374094225/)])  
 - Email: (camilaserracinee@gmail.com)  
 
 ---
